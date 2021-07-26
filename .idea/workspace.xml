@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90f42b0-c71c-45a8-bc12-50135f97fb28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ty5RII2rKH9ixoT7fGraKJNCIC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="steepestDescent" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DIAMONDS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/steepestDescent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90f42b0-c71c-45a8-bc12-50135f97fb28" name="Default Changelist" comment="" />
+      <created>1623728479742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623728479742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624113833156">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="340" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1624113833156" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1627299419479">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1625971586532" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1627299419479" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center" timestamp="1627299419479">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1625971586530" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1627299419479" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left" timestamp="1627299419478">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1625971586529" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1627299419478" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right" timestamp="1627299419479">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1625971586531" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1627299419479" />
+    <state x="248" y="98" key="SettingsEditor" timestamp="1623849323038">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="248" y="98" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1623849323038" />
+    <state x="424" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1624129288536">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="424" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1624129288536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/steepestDescent.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
