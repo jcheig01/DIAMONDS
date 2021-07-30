@@ -46,7 +46,7 @@ def pdf_bi(x, mu, std, ro):
     # Reduced by 11.1s for k=5 (curr: 22.72s)
     # 2x2 inverse
     deter = (std[0] ** 2 * std[1] ** 2) - (ro * std[0] * std[1]) ** 2
-    inv_sigma = [[deter * (std[1] ** 2), -deter * ro * std[0] * std[1]], [-deter * ro * std[0] * std[1], deter * (std[0] ** 2)]]
+    inv_sigma = [[(1/deter) * (std[1] ** 2), -(1/deter) * ro * std[0] * std[1]], [-(1/deter) * ro * std[0] * std[1], (1/deter) * (std[0] ** 2)]]
 
     x = torch.tensor(x)
     inv_sigma = torch.tensor(inv_sigma)
