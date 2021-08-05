@@ -84,9 +84,9 @@ def main():
     x, y = torch.meshgrid(x,y)
 
     beta = torch.tensor([0.5, 0.5], dtype= torch.float, requires_grad=True)
-    mu = torch.tensor([[2, 3], [2,2]], dtype= torch.float, requires_grad=True)
-    std = torch.tensor([[1, 1.5], [1.5, 1]], dtype= torch.float, requires_grad=True)
-    ro = torch.tensor([0.7], dtype= torch.float, requires_grad=True)
+    mu = torch.tensor([[2, 1], [1,2]], dtype= torch.float, requires_grad=True)
+    std = torch.tensor([[1, 1], [1, 1]], dtype= torch.float, requires_grad=True)
+    ro = torch.tensor([0.9], dtype= torch.float, requires_grad=True)
 
     _, initial, _, _ = error(x, y, beta, mu, std, ro)
 
@@ -97,7 +97,7 @@ def main():
     learning_rate = 0.05
     optimizer = torch.optim.Adam([beta, mu, std, ro], lr=learning_rate)
 
-    k = 5
+    k = 100
     for epoch in range(k):
 
         f, g, alpha, cost = error(x, y, beta, mu, std, ro)
